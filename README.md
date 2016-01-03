@@ -1,6 +1,6 @@
 # Pandas
 
-Documnetation for Pandas:
+Documentation for Pandas:
 Some helpful links:
 
 Getting Started:
