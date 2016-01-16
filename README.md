@@ -17,6 +17,8 @@ http://pbpython.com/pandas-pivot-table-explained.html
 Working with DataFrames
 http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/
 
+Slicing the Data: tutorial
+http://www.datacarpentry.org/python-ecology/02-index-slice-subset
 
 Learning Seaborn
 
